@@ -1,6 +1,7 @@
 # Results
 ## samples/hitler-adolf-1900.txt:
 
+![Certificate samples/hitler-adolf-1900.txt](samples/hitler-adolf-1900.png)
 ```plain
 VR 0: C=FR,ID=URN:UVCI:01:FR:T5DWTJYS4ZR8#4,ISS=CNAM
 KID: 53FOjX/4aJs=
@@ -12,6 +13,7 @@ DOB: 1900-01-01
 ```
 ## samples/hitler-adolf-1930.txt:
 
+![Certificate samples/hitler-adolf-1930.txt](samples/hitler-adolf-1930.png)
 ```plain
 VR 0: C=PL,ID=URN:UVCI:01:PL:1/AF2AA5873FAF45DFA826B8A01237BDC4,ISS=Centrum e-Zdrowia
 KID: HhkeqvrtQ0U=
@@ -23,6 +25,7 @@ DOB: 1930-01-01
 ```
 ## samples/hitler-adolf-1989.txt:
 
+![Certificate samples/hitler-adolf-1989.txt](samples/hitler-adolf-1989.png)
 ```plain
 VR 0: C=AT,ID=URN:UVCI:V1:MK:SJ27BEBYCOASY3V8PMW0ES5N54,ISS=Ministry of Health
 KID: KjE8h58xh7A=
@@ -34,6 +37,7 @@ DOB: 1989-10-20
 ```
 ## samples/mama-joe-1990.txt:
 
+![Certificate samples/mama-joe-1990.txt](samples/mama-joe-1990.png)
 ```plain
 VR 0: C=ZW,ID=URN:UVCI:V1:MK:1BMGOUJNOVI7IRQNBNO04HUMQ1,ISS=Joe
 KID: KjE8h58xh7A=
@@ -45,6 +49,7 @@ DOB: 1990-01-01
 ```
 ## samples/mickeymouse.txt:
 
+![Certificate samples/mickeymouse.txt](samples/mickeymouse.png)
 ```plain
 VR 0: C=FR,ID=URN:UVCI:01:FR:W7V2BE46QSBJ#L,ISS=CNAM
 KID: 53FOjX/4aJs=
@@ -56,6 +61,7 @@ DOB: 2001-12-31
 ```
 ## samples/rokotepassieu.txt:
 
+![Certificate samples/rokotepassieu.txt](samples/rokotepassieu.png)
 ```plain
 VR 0: C=DE,ID=URN:UVCI:01DE/A80013335/TCXSI5Q08B0DIJGMIZJDF#T,ISS=Robert Koch-Institut
 KID: 
@@ -67,6 +73,7 @@ DOB: 1917-12-06
 ```
 ## samples/squarepants-spongebob-1900.txt:
 
+![Certificate samples/squarepants-spongebob-1900.txt](samples/squarepants-spongebob-1900.png)
 ```plain
 VR 0: C=GB,ID=URN:UVCI:V1:MK:BB6UIUYRSQK21J4MJTD80SYC9H,ISS=Ministry of Health
 KID: KjE8h58xh7A=
