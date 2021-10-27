@@ -8,6 +8,17 @@ The results are in the [RESULTS.md](./RESULTS.md) file and can be generated usin
 
 Please - stay safe and get vaccinated!
 
+## Disclaimers
+
+This is a collection of forged COVID-19 Certificates that are:
+- valid
+- clearly forged
+
+**I do not generate these certificates, nor I'll provide you with any contact to where you can get these. If you want a valid COVID-19 Certificate,
+  get vaccinated or take a rapid test.**
+
+**The samples have been collected by multiple sources and they're freely available on the internet (e.g: 4Chan and Raid Forums)**
+
 ## Requirements
 
 - Bash
