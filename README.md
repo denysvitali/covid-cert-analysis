@@ -10,7 +10,7 @@ Please - stay safe and get vaccinated!
 
 ## The situation
 
-On 2021-10-27 @emanuelelaface created
+On 2021-10-27 [@emanuelelaface](https://github.com/emanuelelaface) created
 [an issue](https://github.com/ehn-dcc-development/hcert-spec/issues/103#issue-1036759866)
 on [ehn-dcc-development/hcert-spec](https://github.com/ehn-dcc-development/hcert-spec)
 to report a possible private key leakage of French and Polish governments.
