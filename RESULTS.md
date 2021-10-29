@@ -114,7 +114,7 @@ DOB: 1900-10-01
 
 ## samples/xiloe-test.txt:
 
-![Certificate samples/xiloe-test.txt](samples/xiloe-test.png)
+<img src="samples/xiloe-test.png" width="300">
 
 ```plain
 VR 0: C=ZW,ID=URN:UVCI:V1:MK:G8EABCNADUKBX07RTNJDBSGSGP,ISS=Xiloe
