@@ -1,4 +1,5 @@
 #!/bin/bash
+export TZ=UTC
 
 echo "# Results"
 
