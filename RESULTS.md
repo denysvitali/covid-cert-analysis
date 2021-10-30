@@ -33,10 +33,12 @@ DOB: 1930-01-01
 ![Certificate samples/hitler-adolf-1989.txt](samples/hitler-adolf-1989.png)
 
 ```plain
+Certificate is INVALID!
+time="2021-10-30T09:25:38Z" level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
+---
 VR 0: C=AT,ID=URN:UVCI:V1:MK:SJ27BEBYCOASY3V8PMW0ES5N54,ISS=Ministry of Health
 KID: KjE8h58xh7A=
 Issued At: 2021-10-27 14:50:25 UTC
-Signed By: CN=zdravstvo.gov.mk,OU=Ministry of Health,O=Ministry of Health,L=Skopje,ST=North Macedonia,C=MK (issued by: CN=zdravstvo.gov.mk,O=Ministry of Health,L=Skopje,ST=North Macedonia,C=MK,1.2.840.113549.1.9.1=#0c18636f6e74616374407a647261767374766f2e676f762e6d6b)
 Expiration: 2022-09-20 00:00:00 UTC
 Personal Name: Adolf Hitler
 DOB: 1989-10-20
@@ -47,10 +49,12 @@ DOB: 1989-10-20
 ![Certificate samples/mama-joe-1990.txt](samples/mama-joe-1990.png)
 
 ```plain
+Certificate is INVALID!
+time="2021-10-30T09:25:38Z" level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
+---
 VR 0: C=ZW,ID=URN:UVCI:V1:MK:1BMGOUJNOVI7IRQNBNO04HUMQ1,ISS=Joe
 KID: KjE8h58xh7A=
 Issued At: 2021-10-27 13:57:54 UTC
-Signed By: CN=zdravstvo.gov.mk,OU=Ministry of Health,O=Ministry of Health,L=Skopje,ST=North Macedonia,C=MK (issued by: CN=zdravstvo.gov.mk,O=Ministry of Health,L=Skopje,ST=North Macedonia,C=MK,1.2.840.113549.1.9.1=#0c18636f6e74616374407a647261767374766f2e676f762e6d6b)
 Expiration: 2022-10-27 00:00:00 UTC
 Personal Name: Joe Mama
 DOB: 1990-01-01
@@ -89,10 +93,12 @@ DOB: 1917-12-06
 ![Certificate samples/spongebob2.txt](samples/spongebob2.png)
 
 ```plain
+Certificate is INVALID!
+time="2021-10-30T09:25:38Z" level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
+---
 VR 0: C=GB,ID=URN:UVCI:V1:MK:S98KWT17050MEGUGPLGDV2H0CV,ISS=Ministry of Health
 KID: KjE8h58xh7A=
 Issued At: 2021-10-27 14:28:45 UTC
-Signed By: CN=zdravstvo.gov.mk,OU=Ministry of Health,O=Ministry of Health,L=Skopje,ST=North Macedonia,C=MK (issued by: CN=zdravstvo.gov.mk,O=Ministry of Health,L=Skopje,ST=North Macedonia,C=MK,1.2.840.113549.1.9.1=#0c18636f6e74616374407a647261767374766f2e676f762e6d6b)
 Expiration: 2022-09-27 00:00:00 UTC
 Personal Name: Spongebob Squarepants
 DOB: 1900-10-01
@@ -103,10 +109,12 @@ DOB: 1900-10-01
 ![Certificate samples/squarepants-spongebob-1900.txt](samples/squarepants-spongebob-1900.png)
 
 ```plain
+Certificate is INVALID!
+time="2021-10-30T09:25:39Z" level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
+---
 VR 0: C=GB,ID=URN:UVCI:V1:MK:BB6UIUYRSQK21J4MJTD80SYC9H,ISS=Ministry of Health
 KID: KjE8h58xh7A=
 Issued At: 2021-10-27 14:12:11 UTC
-Signed By: CN=zdravstvo.gov.mk,OU=Ministry of Health,O=Ministry of Health,L=Skopje,ST=North Macedonia,C=MK (issued by: CN=zdravstvo.gov.mk,O=Ministry of Health,L=Skopje,ST=North Macedonia,C=MK,1.2.840.113549.1.9.1=#0c18636f6e74616374407a647261767374766f2e676f762e6d6b)
 Expiration: 2022-10-27 00:00:00 UTC
 Personal Name: Spongebob Squarepants
 DOB: 1900-10-01
@@ -117,11 +125,13 @@ DOB: 1900-10-01
 ![Certificate samples/xiloe-test.txt](samples/xiloe-test.png)
 
 ```plain
+Certificate is INVALID!
+time="2021-10-30T09:25:39Z" level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
+---
 VR 0: C=ZW,ID=URN:UVCI:V1:MK:G8EABCNADUKBX07RTNJDBSGSGP,ISS=Xiloe
 KID: KjE8h58xh7A=
-Issued At: 2021-10-28 01:19:29 CEST
-Signed By: CN=zdravstvo.gov.mk,OU=Ministry of Health,O=Ministry of Health,L=Skopje,ST=North Macedonia,C=MK (issued by: CN=zdravstvo.gov.mk,O=Ministry of Health,L=Skopje,ST=North Macedonia,C=MK,1.2.840.113549.1.9.1=#0c18636f6e74616374407a647261767374766f2e676f762e6d6b)
-Expiration: 2022-10-27 02:00:00 CEST
+Issued At: 2021-10-27 23:19:29 UTC
+Expiration: 2022-10-27 00:00:00 UTC
 Personal Name: Xiloe test
 DOB: 1990-01-01
 ```

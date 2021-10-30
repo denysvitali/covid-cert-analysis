@@ -10,6 +10,13 @@ for i in samples/*.txt; do
   echo "![Certificate $i](${i/.txt/.png})"
   echo
   echo '```plain'
-  corona-decoder -v -f "$i"
+  TMP_STDERR=$(mktemp)
+  if ! corona-decoder -v -f "$i" 2> "$TMP_STDERR"; then
+    echo "Certificate is INVALID!"
+    cat "$TMP_STDERR"
+    echo "---"
+    corona-decoder -f "$i"
+  fi
+  rm "$TMP_STDERR"
   echo '```'
 done
