@@ -92,7 +92,6 @@ level=fatal msg="unable to decode certificate: Could not decode input with an in
 VR 0: C=AD,ID=01AD01V000000001631610959062#E,ISS=Govern d'Andorra
 KID: mqWkXpNR0Rk=
 Issued At: 2021-09-14 11:15:59 UTC
-Signed By: XXX_TODO_XXX
 Signed By: C=AD,ST=Andorra,L=Escaldes-Engordany,O=SAAS,OU=SSII,CN=dsc (issued by: organizationIdentifier=NRTAD-U129638U, O=SAAS, CN=DGCG, C=AD)
 Expiration: 2025-09-13 11:15:59 UTC
 Personal Name: HERMINIA<TORRES<SAAAANCHEZ
