@@ -34,7 +34,7 @@ DOB: 1930-01-01
 
 ```plain
 Certificate is INVALID!
-time="2021-10-30T09:25:38Z" level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
+level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
 ---
 VR 0: C=AT,ID=URN:UVCI:V1:MK:SJ27BEBYCOASY3V8PMW0ES5N54,ISS=Ministry of Health
 KID: KjE8h58xh7A=
@@ -50,7 +50,7 @@ DOB: 1989-10-20
 
 ```plain
 Certificate is INVALID!
-time="2021-10-30T09:25:38Z" level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
+level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
 ---
 VR 0: C=ZW,ID=URN:UVCI:V1:MK:1BMGOUJNOVI7IRQNBNO04HUMQ1,ISS=Joe
 KID: KjE8h58xh7A=
@@ -74,6 +74,16 @@ Personal Name: MICKEY MOUSE
 DOB: 2001-12-31
 ```
 
+## samples/pass-valido.txt:
+
+![Certificate samples/pass-valido.txt](samples/pass-valido.png)
+
+```plain
+Certificate is INVALID!
+level=fatal msg="unable to decode certificate: Could not decode input with an invalid length. Make sure you provided a valid certificate in textual form."
+---
+```
+
 ## samples/rokotepassieu.txt:
 
 ![Certificate samples/rokotepassieu.txt](samples/rokotepassieu.png)
@@ -94,7 +104,7 @@ DOB: 1917-12-06
 
 ```plain
 Certificate is INVALID!
-time="2021-10-30T09:25:38Z" level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
+level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
 ---
 VR 0: C=GB,ID=URN:UVCI:V1:MK:S98KWT17050MEGUGPLGDV2H0CV,ISS=Ministry of Health
 KID: KjE8h58xh7A=
@@ -110,7 +120,7 @@ DOB: 1900-10-01
 
 ```plain
 Certificate is INVALID!
-time="2021-10-30T09:25:39Z" level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
+level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
 ---
 VR 0: C=GB,ID=URN:UVCI:V1:MK:BB6UIUYRSQK21J4MJTD80SYC9H,ISS=Ministry of Health
 KID: KjE8h58xh7A=
@@ -126,7 +136,7 @@ DOB: 1900-10-01
 
 ```plain
 Certificate is INVALID!
-time="2021-10-30T09:25:39Z" level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
+level=fatal msg="unable to verify certificate: public key for kid=KjE8h58xh7A= not found"
 ---
 VR 0: C=ZW,ID=URN:UVCI:V1:MK:G8EABCNADUKBX07RTNJDBSGSGP,ISS=Xiloe
 KID: KjE8h58xh7A=
