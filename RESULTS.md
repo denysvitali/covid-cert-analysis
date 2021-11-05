@@ -126,20 +126,6 @@ Personal Name: Ota Yhteyttä Wickr Rokotepassieu
 DOB: 1917-12-06
 ```
 
-## samples/saaaanchez.txt:
-
-![Certificate samples/saaaanchez.txt](samples/saaaanchez.png)
-
-```plain
-VR 0: C=AD,ID=01AD01V000000001631610959062#E,ISS=Govern d'Andorra
-KID: mqWkXpNR0Rk=
-Issued At: 2021-09-14 09:15:59 UTC
-Signed By: CN=dsc,OU=SSII,O=SAAS,L=Escaldes-Engordany,ST=Andorra,C=AD (issued by: CN=DGCG,O=SAAS,C=AD,2.5.4.97=#130e4e525441442d5531323936333855)
-Expiration: 2025-09-13 09:15:59 UTC
-Personal Name:  
-DOB: 1946-02-27
-```
-
 ## samples/spongebob2.txt:
 
 ![Certificate samples/spongebob2.txt](samples/spongebob2.png)
