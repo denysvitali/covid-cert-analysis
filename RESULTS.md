@@ -102,16 +102,6 @@ Personal Name: MICKEY MOUSE
 DOB: 2001-12-31
 ```
 
-## samples/pass-valido.txt:
-
-![Certificate samples/pass-valido.txt](samples/pass-valido.png)
-
-```plain
-Certificate is INVALID!
-level=fatal msg="unable to decode certificate: Could not decode input with an invalid length. Make sure you provided a valid certificate in textual form."
----
-```
-
 ## samples/rokotepassieu.txt:
 
 ![Certificate samples/rokotepassieu.txt](samples/rokotepassieu.png)
