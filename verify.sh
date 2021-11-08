@@ -1,9 +1,17 @@
 #!/bin/bash
 export TZ=UTC
 
+declare -a INPUT_FILES
+
+if [ $# -eq 0 ]; then 
+  INPUT_FILES=( samples/*.txt )
+else
+  INPUT_FILES=("${@}")
+fi
+
 echo "# Results"
 
-for i in samples/*.txt; do
+for i in "${INPUT_FILES[@]}"; do
   echo
   echo "## $i:"
   echo
