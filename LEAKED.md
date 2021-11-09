@@ -1,21 +1,5 @@
 # Results
 
-## samples/leaked/001.txt:
-
-![Certificate samples/leaked/001.txt](samples/leaked/001.png)
-
-```plain
-Certificate is INVALID!
-level=fatal msg="unable to verify certificate: public key for kid=GO0rf1TneQQ= not found"
----
-VR 0: C=PL,ID=URN:UVCI:01:PL:1/7934E5C11DAD485F9F27B20DA5A41082,ISS=Centrum e-Zdrowia
-KID: GO0rf1TneQQ=
-Issued At: 2021-05-24 22:00:00 UTC
-Expiration: 2022-05-17 22:00:00 UTC
-Personal Name: Stanisław Rogaliński-Król
-DOB: 1958-11-11
-```
-
 ## samples/leaked/002.txt:
 
 ![Certificate samples/leaked/002.txt](samples/leaked/002.png)
