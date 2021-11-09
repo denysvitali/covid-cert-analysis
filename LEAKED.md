@@ -1,21 +1,5 @@
 # Results
 
-## samples/leaked/001.txt:
-
-![Certificate samples/leaked/001.txt](samples/leaked/001.png)
-
-```plain
-Certificate is INVALID!
-level=fatal msg="unable to verify certificate: public key for kid=GO0rf1TneQQ= not found"
----
-VR 0: C=PL,ID=URN:UVCI:01:PL:1/7934E5C11DAD485F9F27B20DA5A41082,ISS=Centrum e-Zdrowia
-KID: GO0rf1TneQQ=
-Issued At: 2021-05-24 22:00:00 UTC
-Expiration: 2022-05-17 22:00:00 UTC
-Personal Name: Stanisław Rogaliński-Król
-DOB: 1958-11-11
-```
-
 ## samples/leaked/002.txt:
 
 ![Certificate samples/leaked/002.txt](samples/leaked/002.png)
@@ -30,20 +14,6 @@ Issued At: 1999-12-31 23:00:00 UTC
 Expiration: 2021-11-30 23:00:00 UTC
 Personal Name: Robert Koch
 DOB: 1843-12-11
-```
-
-## samples/leaked/003.txt:
-
-![Certificate samples/leaked/003.txt](samples/leaked/003.png)
-
-```plain
-VR 0: C=DE,ID=URN:UVCI:01DE/IZ14482A/2BYU1VFE8L2JDQJHY1QVSK#E,ISS=Robert Koch-Institut
-KID: dhSzPDr4G2M=
-Issued At: 2021-05-26 11:29:31 UTC
-Signed By: SERIALNUMBER=CSM026164168,CN=Robert Koch-Institut,OU=Elektronischer Impfnachweis,O=Robert Koch-Institut,POSTALCODE=13353,STREET=Nordufer 20,L=Berlin,ST=Berlin,C=DE,2.5.4.97=#131044543a44452d33303233353331343435 (issued by: CN=D-TRUST CA 2-2 2019,O=D-Trust GmbH,C=DE,2.5.4.97=#130e4e545244452d4852423734333436)
-Expiration: 2022-05-26 11:29:31 UTC
-Personal Name: Bernd Brandenburgtest
-DOB: 1950-01-01
 ```
 
 ## samples/leaked/004.txt:
@@ -238,32 +208,6 @@ Personal Name: RICHARD GERARD BOUHET
 DOB: 1955-02-16
 ```
 
-## samples/leaked/018.txt:
-
-![Certificate samples/leaked/018.txt](samples/leaked/018.png)
-
-```plain
-Certificate is INVALID!
-level=fatal msg="unable to decode certificate: cbor.Unmarshal(v.Payload): cbor: cannot unmarshal primitives into Go struct field coronaqr.claims.4 of type int64. Make sure you provided a valid certificate in textual form."
----
-```
-
-## samples/leaked/019.txt:
-
-![Certificate samples/leaked/019.txt](samples/leaked/019.png)
-
-```plain
-Certificate is INVALID!
-level=fatal msg="unable to verify certificate: public key for kid=Rjene8QvRwA= not found"
----
-VR 0: C=NL,ID=urn:uvci:01:NL:PLA8UWS60Z4RZXVALL6GAZ,ISS=Ministry of VWS
-VR 1: C=NL,ID=urn:uvci:01:NL:ATS342XDYS358FDFH3GTK5,ISS=Ministry of VWS
-KID: Rjene8QvRwA=
-Issued At: 2021-09-25 07:47:24 UTC
-Expiration: 2025-09-25 07:47:24 UTC
-Personal Name: Путин Владимир
-DOB: 2009-02-28
-```
 
 ## samples/leaked/020.txt:
 
