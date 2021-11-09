@@ -208,16 +208,6 @@ Personal Name: RICHARD GERARD BOUHET
 DOB: 1955-02-16
 ```
 
-## samples/leaked/018.txt:
-
-![Certificate samples/leaked/018.txt](samples/leaked/018.png)
-
-```plain
-Certificate is INVALID!
-level=fatal msg="unable to decode certificate: cbor.Unmarshal(v.Payload): cbor: cannot unmarshal primitives into Go struct field coronaqr.claims.4 of type int64. Make sure you provided a valid certificate in textual form."
----
-```
-
 
 ## samples/leaked/020.txt:
 
