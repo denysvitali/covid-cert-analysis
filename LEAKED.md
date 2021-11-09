@@ -208,7 +208,6 @@ Personal Name: RICHARD GERARD BOUHET
 DOB: 1955-02-16
 ```
 
-
 ## samples/leaked/020.txt:
 
 ![Certificate samples/leaked/020.txt](samples/leaked/020.png)
