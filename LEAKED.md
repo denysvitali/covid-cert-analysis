@@ -218,22 +218,6 @@ level=fatal msg="unable to decode certificate: cbor.Unmarshal(v.Payload): cbor: 
 ---
 ```
 
-## samples/leaked/019.txt:
-
-![Certificate samples/leaked/019.txt](samples/leaked/019.png)
-
-```plain
-Certificate is INVALID!
-level=fatal msg="unable to verify certificate: public key for kid=Rjene8QvRwA= not found"
----
-VR 0: C=NL,ID=urn:uvci:01:NL:PLA8UWS60Z4RZXVALL6GAZ,ISS=Ministry of VWS
-VR 1: C=NL,ID=urn:uvci:01:NL:ATS342XDYS358FDFH3GTK5,ISS=Ministry of VWS
-KID: Rjene8QvRwA=
-Issued At: 2021-09-25 07:47:24 UTC
-Expiration: 2025-09-25 07:47:24 UTC
-Personal Name: Путин Владимир
-DOB: 2009-02-28
-```
 
 ## samples/leaked/020.txt:
 
