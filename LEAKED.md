@@ -337,6 +337,7 @@ DOB: 1963-01-19
 ![Certificate samples/leaked/029.txt](samples/leaked/029.png)
 
 ```plain
+TR 0: C=FR,ID=URN:UVCI:01:FR:WIP8OKN196717OJ#5,ISS=APHP
 KID: eQOY6BDp+vM=
 Issued At: 2021-07-07 14:17:29 UTC
 Signed By: CN=DSC_FR_002,OU=26750045200011,O=APHP,C=FR (issued by: CN=CSCA-FRANCE,O=Gouv,C=FR)
@@ -396,6 +397,7 @@ DOB: 1979-02-09
 ![Certificate samples/leaked/033.txt](samples/leaked/033.png)
 
 ```plain
+RR 0: C=SI,ID=URN:UVCI:01:SI:D05FD0F3219A2178E053#E,ISS=Nacionalni inštitut za javno zdravje
 KID: 90CNG8dcdn0=
 Issued At: 2021-11-09 17:56:07 UTC
 Signed By: CN=Slovenian Digital Covid Certificate Signer,OU=NIJZ eHealth,O=NIJZ\, National Institute of Public Health of Slovenia,C=SI (issued by: CN=Slovenian Digital Covid Certificate CSCA,OU=NIJZ eHealth,O=NIJZ\, National Institute of Public Health of Slovenia,C=SI)
