@@ -374,3 +374,32 @@ Expiration: 2022-02-14 07:29:53 UTC
 Personal Name: John Doe
 DOB: 1911-11-11
 ```
+
+## samples/leaked/032.txt:
+
+![Certificate samples/leaked/032.txt](samples/leaked/032.png)
+
+```plain
+Certificate is INVALID!
+level=fatal msg="unable to verify certificate: certificate expired at 2021-09-22 08:04:47 +0000 UTC"
+---
+VR 0: C=SI,ID=URN:UVCI:01:SI:C57F79FF97E528B0E053#P,ISS=Nacionalni inštitut za javno zdravje
+KID: 90CNG8dcdn0=
+Issued At: 2021-06-24 08:04:47 UTC
+Expiration: 2021-09-22 08:04:47 UTC
+Personal Name: POKLUKAR JANEZ
+DOB: 1979-02-09
+```
+
+## samples/leaked/033.txt:
+
+![Certificate samples/leaked/033.txt](samples/leaked/033.png)
+
+```plain
+KID: 90CNG8dcdn0=
+Issued At: 2021-11-09 17:56:07 UTC
+Signed By: CN=Slovenian Digital Covid Certificate Signer,OU=NIJZ eHealth,O=NIJZ\, National Institute of Public Health of Slovenia,C=SI (issued by: CN=Slovenian Digital Covid Certificate CSCA,OU=NIJZ eHealth,O=NIJZ\, National Institute of Public Health of Slovenia,C=SI)
+Expiration: 2023-06-04 07:53:33 UTC
+Personal Name: MILAN SKLEDAR
+DOB: 1962-07-01
+```
