@@ -1,21 +1,5 @@
 # Results
 
-## samples/leaked/002.txt:
-
-![Certificate samples/leaked/002.txt](samples/leaked/002.png)
-
-```plain
-Certificate is INVALID!
-level=fatal msg="unable to verify certificate: public key for kid=Qk9HVVNLSUQ= not found"
----
-VR 0: C=DE,ID=URN:UVCI:01DE/GDATA/FAKECERTIFICATE#0,ISS=Institute for Snake Oil Cryptography
-KID: 
-Issued At: 1999-12-31 23:00:00 UTC
-Expiration: 2021-11-30 23:00:00 UTC
-Personal Name: Robert Koch
-DOB: 1843-12-11
-```
-
 ## samples/leaked/004.txt:
 
 ![Certificate samples/leaked/004.txt](samples/leaked/004.png)
@@ -358,22 +342,6 @@ Signed By: CN=Belgium Covid19 DSC 01,O=eHealth - Belgium,C=BE (issued by: CN=Bel
 Expiration: 2022-06-18 00:00:00 UTC
 Personal Name: Dursun Aydemir
 DOB: 1965-01-01
-```
-
-## samples/leaked/031.txt:
-
-![Certificate samples/leaked/031.txt](samples/leaked/031.png)
-
-```plain
-Certificate is INVALID!
-level=fatal msg="unable to verify certificate: public key for kid=XkVWZsKlHnhX not found"
----
-VR 0: C=XX,ID=00XX/00000/1234567890/THISISATESTCERTIFICATEXXX#S,ISS=Non Valid Test Certificate
-KID: XkVWZsKlHnhX
-Issued At: 2021-08-18 07:29:53 UTC
-Expiration: 2022-02-14 07:29:53 UTC
-Personal Name: John Doe
-DOB: 1911-11-11
 ```
 
 ## samples/leaked/032.txt:
