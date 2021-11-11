@@ -1,15 +1,5 @@
 # Results
 
-## samples/leaked/004.txt:
-
-![Certificate samples/leaked/004.txt](samples/leaked/004.png)
-
-```plain
-Certificate is INVALID!
-level=fatal msg="unable to decode certificate: flate: corrupt input before offset 31. Make sure you provided a valid certificate in textual form."
----
-```
-
 ## samples/leaked/005.txt:
 
 ![Certificate samples/leaked/005.txt](samples/leaked/005.png)
