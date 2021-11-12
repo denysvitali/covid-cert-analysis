@@ -353,3 +353,115 @@ Expiration: 2023-06-04 07:53:33 UTC
 Personal Name: MILAN SKLEDAR
 DOB: 1962-07-01
 ```
+
+## samples/leaked/034.txt:
+
+![Certificate samples/leaked/034.txt](samples/leaked/034.png)
+
+```plain
+VR 0: C=PL,ID=URN:UVCI:01:PL:1/405B08EB95E34F3E86FBCA418846361A,ISS=Centrum e-Zdrowia
+KID: HhkeqvrtQ0U=
+Issued At: 2021-06-25 09:59:26 UTC
+Signed By: CN=Poland Vaccination DGC Service 1,OU=eHealth Centre,O=Ministry of Health,C=PL (issued by: CN=Poland DGC RootCSCA 1,O=Ministry of Health,C=PL)
+Expiration: 2023-05-26 11:53:10 UTC
+Personal Name: ORESTA VOVCHKO
+DOB: 2000-11-14
+```
+
+## samples/leaked/035.txt:
+
+![Certificate samples/leaked/035.txt](samples/leaked/035.png)
+
+```plain
+VR 0: C=IE,ID=URN:UVCI:01:IE:A0P09000001PS2UEAA:1,ISS=Department of Health Ireland
+KID: PBpDVqnJ7Us=
+Issued At: 2021-07-11 14:10:17 UTC
+Signed By: CN=validateqr.gov.ie 2020135457912391810539600999694555,O=Department of Health,C=IE (issued by: CN=CSCA_DGC_IE_01,OU=eHealth,O=Department of Health,L=Dublin,ST=Dublin,C=IE)
+Expiration: 2024-07-10 14:10:17 UTC
+Personal Name: Artur Widak
+DOB: 1971-09-15
+```
+
+## samples/leaked/036.txt:
+
+![Certificate samples/leaked/036.txt](samples/leaked/036.png)
+
+```plain
+VR 0: C=FR,ID=URN:UVCI:V1:FR:4UMNV107S1M33LL731D3PX60WY,ISS=DGS
+KID: lrxgMs2Duac=
+Issued At: 2021-07-02 23:30:53 UTC
+Signed By: CN=DSC_FR_012,OU=120036017,O=DGS,C=FR (issued by: CN=CSCA-FRANCE,O=Gouv,C=FR)
+Expiration: 2022-06-22 00:00:00 UTC
+Personal Name: THOMAS BRENT
+DOB: 1992-03-06
+```
+
+## samples/leaked/037.txt:
+
+![Certificate samples/leaked/037.txt](samples/leaked/037.png)
+
+```plain
+VR 0: C=FR,ID=URN:UVCI:V1:FR:BHI8VL1OFBXLQELRRYFJPCWRDE,ISS=DGS
+KID: lrxgMs2Duac=
+Issued At: 2021-07-09 19:36:37 UTC
+Signed By: CN=DSC_FR_012,OU=120036017,O=DGS,C=FR (issued by: CN=CSCA-FRANCE,O=Gouv,C=FR)
+Expiration: 2022-04-19 00:00:00 UTC
+Personal Name: JEAN MICHEL MART
+DOB: 1964-09-21
+```
+
+## samples/leaked/038.txt:
+
+![Certificate samples/leaked/038.txt](samples/leaked/038.png)
+
+```plain
+VR 0: C=DE,ID=URN:UVCI:01DE/638115000/3VHQPN9IX12YZ5G15D30V6#W,ISS=Robert Koch-Institut
+KID: 2JelGO/ymxQ=
+Issued At: 2021-06-23 10:02:51 UTC
+Signed By: SERIALNUMBER=CSM026460071,CN=Robert Koch-Institut,OU=Elektronischer Impfnachweis,O=Robert Koch-Institut,POSTALCODE=13353,STREET=Nordufer 20,L=Berlin,ST=Berlin,C=DE,2.5.4.97=#131044543a44452d33303233353331343435 (issued by: CN=D-TRUST CA 2-2 2019,O=D-Trust GmbH,C=DE,2.5.4.97=#130e4e545244452d4852423734333436)
+Expiration: 2022-06-23 10:02:51 UTC
+Personal Name: Frank Hoermann
+DOB: 1963-10-30
+```
+
+## samples/leaked/039.txt:
+
+![Certificate samples/leaked/039.txt](samples/leaked/039.png)
+
+```plain
+VR 0: C=PL,ID=URN:UVCI:01:PL:1/1B2F8F63C16742308BC51CF82E1EDA40,ISS=Centrum e-Zdrowia
+KID: HhkeqvrtQ0U=
+Issued At: 2021-07-28 18:29:00 UTC
+Signed By: CN=Poland Vaccination DGC Service 1,OU=eHealth Centre,O=Ministry of Health,C=PL (issued by: CN=Poland DGC RootCSCA 1,O=Ministry of Health,C=PL)
+Expiration: 2023-05-26 11:53:10 UTC
+Personal Name: RAFAŁ FUS
+DOB: 1981-05-28
+```
+
+## samples/leaked/040.txt:
+
+![Certificate samples/leaked/040.txt](samples/leaked/040.png)
+
+```plain
+VR 0: C=FR,ID=urn:uvci:01:FR:LS9ZB6C5NSON#0,ISS=CNAM
+KID: fGLuvg6n5wk=
+Issued At: 2021-07-02 12:10:47 UTC
+Signed By: CN=DSC_FR_019,OU=180035024,O=CNAM,C=FR (issued by: CN=CSCA-FRANCE,O=Gouv,C=FR)
+Expiration: 2023-06-13 22:00:00 UTC
+Personal Name: SEBASTIEN ROSE
+DOB: 1981-09-02
+```
+
+## samples/leaked/041.txt:
+
+![Certificate samples/leaked/041.txt](samples/leaked/041.png)
+
+```plain
+VR 0: C=FR,ID=urn:uvci:01:FR:COWNNWJDFE2L#T,ISS=CNAM
+KID: fGLuvg6n5wk=
+Issued At: 2021-07-03 23:12:44 UTC
+Signed By: CN=DSC_FR_019,OU=180035024,O=CNAM,C=FR (issued by: CN=CSCA-FRANCE,O=Gouv,C=FR)
+Expiration: 2023-06-13 22:00:00 UTC
+Personal Name: JOANNA BACCIARELLI
+DOB: 1975-04-21
+```
