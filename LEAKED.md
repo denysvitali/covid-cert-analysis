@@ -479,3 +479,33 @@ Expiration: 2026-06-17 23:59:59 UTC
 Personal Name: RENATO POLIĆ
 DOB: 1967-04-08
 ```
+
+## samples/leaked/043.txt:
+
+![Certificate samples/leaked/043.txt](samples/leaked/043.png)
+
+```plain
+VR 0: C=FR,ID=URN:UVCI:01:FR:Q8ATPPKI94ZH#W,ISS=CNAM
+KID: eUVY16rD2Kc=
+Issued At: 2021-10-04 22:47:48 UTC
+Signed By: CN=DSC_FR_022,OU=180035024,O=CNAM,C=FR (issued by: CN=CSCA-FRANCE,O=Gouv,C=FR)
+Expiration: 2023-09-13 22:00:00 UTC
+Personal Name: CATHERINE PASSET
+DOB: 1964-11-23
+```
+
+## samples/leaked/044.txt:
+
+![Certificate samples/leaked/044.txt](samples/leaked/044.png)
+
+```plain
+Certificate is INVALID!
+level=fatal msg="unable to verify certificate: certificate expired at 2021-07-28 14:13:34 +0000 UTC"
+---
+VR 0: C=ES,ID=01ES09V162488959756302368407#E,ISS=Servei Català de la Salut
+KID: e9SH8dtWwdY=
+Issued At: 2021-06-28 14:13:34 UTC
+Expiration: 2021-07-28 14:13:34 UTC
+Personal Name: VICTOR HERRERO PEREZ
+DOB: 1958-12-10
+```
