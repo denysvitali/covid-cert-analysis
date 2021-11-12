@@ -13,3 +13,4 @@ Covid Certificate on social media / news outlets.
 - https://twitter.com/vladaRS/status/1408058639496011780
 - https://twitter.com/skledar_tv/status/1458161288236969993
 - https://raidforums.com/Thread-TRADING-make-EU-green-pass
+- https://www.linkedin.com/posts/renato-polic-ce_covid-certificate-activity-6863385917168717824-Dx-Z

@@ -465,3 +465,17 @@ Expiration: 2023-06-13 22:00:00 UTC
 Personal Name: JOANNA BACCIARELLI
 DOB: 1975-04-21
 ```
+
+## samples/leaked/042.txt:
+
+![Certificate samples/leaked/042.txt](samples/leaked/042.png)
+
+```plain
+VR 0: C=HR,ID=01:HR:MH1XHMWNXZEZ#A,ISS=Ministry of Health
+KID: 25QCxBrBJvA=
+Issued At: 2021-11-04 12:37:24 UTC
+Signed By: CN=Croatia DGC DS 001,O=AKD d.o.o.,C=HR (issued by: CN=Croatia DGC CSCA,O=AKD d.o.o.,C=HR)
+Expiration: 2026-06-17 23:59:59 UTC
+Personal Name: RENATO POLIĆ
+DOB: 1967-04-08
+```
