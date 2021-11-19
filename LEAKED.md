@@ -509,3 +509,17 @@ Expiration: 2021-07-28 14:13:34 UTC
 Personal Name: VICTOR HERRERO PEREZ
 DOB: 1958-12-10
 ```
+
+## samples/leaked/045.txt:
+
+![Certificate samples/leaked/045.txt](samples/leaked/045.png)
+
+```plain
+VR 0: C=NO,ID=URN:UVCI:01:NO:VAK/4VJLKIVWYUMZYEATD,ISS=Norwegian Institute of Public Health
+KID: 7z8+6oww2a8=
+Issued At: 2021-11-12 09:00:29 UTC
+Signed By: CN=DSC HN EU 2,O=Norwegian Institute of Public Health,C=NO (issued by: CN=NO NHN CSCA PROD,O=Norsk helsenett SF,C=NO)
+Expiration: 2022-02-09 23:00:00 UTC
+Personal Name: Live Austgard
+DOB: 1993-09-20
+```
