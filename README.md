@@ -60,6 +60,7 @@ comment on the topic.
 This is a collection of forged COVID-19 Certificates that are:
 - valid
 - clearly forged
+- leaked
 
 **I do not generate these certificates, nor I'll provide you with any contact to where you can get these. If you want a valid COVID-19 Certificate,
   get vaccinated or take a rapid test.**
